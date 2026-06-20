@@ -1,7 +1,6 @@
 # Syntecxhub React Expense Tracker
 
-![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge\&logo=react)
-![Vite](https://img.shields.io/badge/Vite-Frontend-purple?style=for-the-badge\&logo=vite)
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge\&logo=react)![Vite](https://img.shields.io/badge/Vite-Frontend-purple?style=for-the-badge\&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?style=for-the-badge\&logo=tailwindcss)
 ![Recharts](https://img.shields.io/badge/Recharts-Data%20Visualization-orange?style=for-the-badge)
 ![LocalStorage](https://img.shields.io/badge/Storage-LocalStorage-green?style=for-the-badge)
